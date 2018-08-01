@@ -14,7 +14,7 @@ var node = {
 }
 
 ;node .attach_data ('x')
-;;console .log (node .data)
+;console .log (node .data)
 // x
 ```
 
