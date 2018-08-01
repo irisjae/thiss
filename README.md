@@ -9,12 +9,12 @@ var thiss = require ('thiss')
 var node = {
   ...,
   attach_data: thiss (self => data => {
-    ; self .data = data
+    ;self .data = data
   })
 }
 
-; node .attach_data ('x')
-;; console .log (node .data)
+;node .attach_data ('x')
+;;console .log (node .data)
 // x
 ```
 
