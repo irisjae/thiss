@@ -1,6 +1,6 @@
 # thiss
 
-Use this the way they use the Y combinator *(you want arrow functions that need to use *this*?)*
+Use `this` the way they use the Y combinator *(you want arrow functions that need to use *this*?)*
 
 ## Brief API
 ```
